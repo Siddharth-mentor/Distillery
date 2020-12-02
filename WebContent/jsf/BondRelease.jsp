@@ -14,12 +14,11 @@
 				<div class="col-md-12 wow shake" align="center">
 					<h:messages errorStyle="color:red" layout="TABLE" id="messages1"
 						infoStyle="color:green"
-						style="font-size:20px; background-color:#e1fcdf; font-weight: bold">
+						style="font-size:20px; background-color:#e1fcdf;">
 					</h:messages>
 
 				</div>
 			</div>
-
 			<div class="row">
 				<div align="center" style="background-color: #253f8a;">
 					<h:outputText value="Bond Release"
@@ -30,6 +29,11 @@
 			</div>
 
 			<hr style="border-top: 7px #D0D3D4; border-top-style: dashed;"></hr>
+
+
+
+
+
 
 
 			<div class="row" align="center">
@@ -63,7 +67,7 @@
 				</div>
 
 				<div class="col-md-2">
-				<h:outputText value="Bond Value"></h:outputText>
+				<h:outputText value="Bond Values"></h:outputText>
 				
 				</div>
                    <div class="col-md-2">
